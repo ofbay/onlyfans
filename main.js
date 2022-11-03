@@ -2,12 +2,12 @@
  * Landing Page Config
  */
 var config = {
-  recentActivityIntervalDuration: 5, // seconds
+  recentActivityIntervalDuration: 10, // seconds
   recentActivities: [
     {
       avatarImageUrl: 'Img/8.jpg',
       username: 'Sam',
-      time: 'few seconds ago',
+      time: 'few hours ago',
       instagramProfileUrl: 'https://onlyfans.com/samslayres'
     },
     {
@@ -25,7 +25,7 @@ var config = {
     {
       avatarImageUrl: 'Img/7.jpg',
       username: 'Mia K.',
-      time: 'few seconds ago',
+      time: 'few minutes ago',
       instagramProfileUrl: 'https://onlyfans.com/miakhalifa'
     },
     {
@@ -39,12 +39,11 @@ var config = {
       username: 'Riley Reid',
       time: 'few seconds ago',
       instagramProfileUrl: 'https://onlyfans.com/rileyreidx3'
-    
     },
     {
       avatarImageUrl: 'Img/3.jpg',
       username: 'Asa Akira',
-      time: 'few hours ago',
+      time: 'few seconds ago',
       instagramProfileUrl: 'https://onlyfans.com/asaakira'
     },
     // add more recent activities here. Will be displayed last.
